@@ -1,0 +1,94 @@
+h1{
+    margin: 0px 0px 0px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+pre{
+    Color:#660000;
+    Font-family:Verdana, Arial, Helvetica,sans-serif;
+}
+img {
+    align: center;
+}
+.copy-right{
+    background-color: yellow;
+    
+}
+code {
+    color: rgb(247, 1, 1);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tablestyle2 {
+    background-color: grey;
+    margin-bottom: 20px;
+}
+.tablestyle {
+    background-color: #dddddd;
+    border: 1px solid black;
+}
+
+.tdprop {
+    box-sizing: border-box;
+    width: 58px;
+    height: 58px;
+    border: 1px solid black;
+    padding-bottom: 2px;
+    align-items: center;
+}
+
+.imgprop {
+    width: 44px;
+    height: 44px;
+    align-items: center;
+}
+
+
+/* Table Style for 3rd table collectioin */
+
+.tablestyle2 {
+    background-color: #dddddd;
+    margin-bottom: 20px;
+    border-style: hidden;
+}
+
+.design {
+    background-color: white;
+    border-style:hidden;
+    width: 150px;
+    
+}
+
+.tdprop2 {
+    box-sizing: border-box;
+    width: 58px;
+    height: 52px;
+    border: 1px solid black;
+    padding-bottom: 2px;
+    border-collapse: collapse;
+    align-items: center;
+}
+
+
+/* Styling the last table */
+
+.numberstyle {
+    color: #0000ff;
+    font-size: 16px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-align: right;
+    padding-right: 7px;
+}
+
+.styletd {
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    padding-right: 5px;
+}
+.table-colour {
+    color: #0000ff;
+}
